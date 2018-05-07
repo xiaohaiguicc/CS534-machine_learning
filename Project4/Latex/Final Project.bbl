@@ -1,0 +1,47 @@
+\begin{thebibliography}{1}
+
+\bibitem{halko2011finding}
+Nathan Halko, Per-Gunnar Martinsson, and Joel~A Tropp.
+\newblock Finding structure with randomness: Probabilistic algorithms for
+  constructing approximate matrix decompositions.
+\newblock {\em SIAM review}, 53(2):217--288, 2011.
+
+\bibitem{arthur2007k}
+David Arthur and Sergei Vassilvitskii.
+\newblock k-means++: The advantages of careful seeding.
+\newblock In {\em Proceedings of the eighteenth annual ACM-SIAM symposium on
+  Discrete algorithms}, pages 1027--1035. Society for Industrial and Applied
+  Mathematics, 2007.
+
+\bibitem{rokach2005clustering}
+Lior Rokach and Oded Maimon.
+\newblock Clustering methods.
+\newblock In {\em Data mining and knowledge discovery handbook}, pages
+  321--352. Springer, 2005.
+
+\bibitem{bergstra2012random}
+James Bergstra and Yoshua Bengio.
+\newblock Random search for hyper-parameter optimization.
+\newblock {\em Journal of Machine Learning Research}, 13(Feb):281--305, 2012.
+
+\bibitem{bentley1975multidimensional}
+Jon~Louis Bentley.
+\newblock Multidimensional binary search trees used for associative searching.
+\newblock {\em Communications of the ACM}, 18(9):509--517, 1975.
+
+\bibitem{breiman2001random}
+Leo Breiman.
+\newblock Random forests.
+\newblock {\em Machine learning}, 45(1):5--32, 2001.
+
+\bibitem{friedman2001greedy}
+Jerome~H Friedman.
+\newblock Greedy function approximation: a gradient boosting machine.
+\newblock {\em Annals of statistics}, pages 1189--1232, 2001.
+
+\bibitem{schmidt2017minimizing}
+Mark Schmidt, Nicolas Le~Roux, and Francis Bach.
+\newblock Minimizing finite sums with the stochastic average gradient.
+\newblock {\em Mathematical Programming}, 162(1-2):83--112, 2017.
+
+\end{thebibliography}
