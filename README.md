@@ -1,3 +1,3 @@
-# CS534-machine_learning
-This repository includes all the projects I have done in the CS534-machine_learning courses.
+# Machine Learning
+This repmachine_learningository includes all the machine learning projects I have done.
 
